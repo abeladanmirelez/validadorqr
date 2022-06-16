@@ -1,0 +1,2 @@
+# validadorqr
+validadorqr  x2
